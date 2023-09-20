@@ -1,4 +1,5 @@
 # FreshSales_Sales-Marketing_Selenium_Automation
+#Techologies/ Tools: JAVA, Maven, Selenium WebDriver, TestNG, Automation/ Manual Testing
 Project significantly improved customer relationship management and streamlined business operations
 
 I spearheaded automation testing across various critical features in the project, ensuring optimal functionality and a seamless user experience. Here are some of the key accomplishments:
