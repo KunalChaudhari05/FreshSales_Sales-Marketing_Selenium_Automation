@@ -1,0 +1,2 @@
+# FreshSales_Sales-Marketing_Selenium_Automation
+Project significantly improved customer relationship management and streamlined business operations
